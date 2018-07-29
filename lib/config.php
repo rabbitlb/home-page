@@ -45,7 +45,7 @@ $url_03 = "mailto:rabbit_lb@163.com";
 
 //设置下方button信息
 $button_name = "Blog";
-$button_url = "http://45.32.73.114/blog";
+$button_url = "http://rabbit-lb.cn/blog";
 
 //设置版权信息
 $copyright = "Amamiya Chinatsu";
