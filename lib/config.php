@@ -48,6 +48,6 @@ $button_name = "Blog";
 $button_url = "http://blog.rabbit-lb.cn/";
 
 //设置版权信息
-$copyright = "Amamiya Chinatsu";
+$copyright = "Rabbit_lb";
 ?>
 
