@@ -66,7 +66,7 @@ include_once 'lib/config.php';
             <h1><?php echo $main_title; ?></h1>
             <p><?php echo $sec_title; ?></p>
         </header>
-        
+        <!--
         <hr />
         <h2>Extra Stuff!</h2>
         <form method="post" action="#">
@@ -102,7 +102,7 @@ include_once 'lib/config.php';
             </ul>
         </form>
         <hr />
-        
+        -->
         <footer>
             <ul class="icons">
                 <li><a href="<?php echo $url_01;?>" class="<?php echo $icons_01;?>"><?php echo $txt_01;?></a></li>
