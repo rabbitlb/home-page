@@ -20,7 +20,7 @@ include_once 'lib/config.php';
     <style type="text/css">
         body {
             height: 100%;
-            background-image: url("images/<?php echo $background_filename;?>");
+            background-image: url("https://github.com/rabbitlb/home-page/raw/master/images/gensou.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-position:bottom center;
@@ -38,7 +38,7 @@ include_once 'lib/config.php';
             opacity: 0;
             z-index: 1;
             background-color: #ffffff;
-            background-image: url("images/<?php echo $background_filename;?>");
+            background-image: url("https://github.com/rabbitlb/home-page/raw/master/images/gensou.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
